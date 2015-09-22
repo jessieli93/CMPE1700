@@ -1,1 +1,6 @@
 C:\Users\Jessie\Documents\GitHub\CMPE1700\JingLi_ICA2\JingLi_ICA2\bin\Debug\JingLi_ICA2.exe.config
+C:\Users\Jessie\Documents\GitHub\CMPE1700\JingLi_ICA2\JingLi_ICA2\bin\Debug\JingLi_ICA2.exe
+C:\Users\Jessie\Documents\GitHub\CMPE1700\JingLi_ICA2\JingLi_ICA2\bin\Debug\JingLi_ICA2.pdb
+C:\Users\Jessie\Documents\GitHub\CMPE1700\JingLi_ICA2\JingLi_ICA2\obj\Debug\JingLi_ICA2.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\GitHub\CMPE1700\JingLi_ICA2\JingLi_ICA2\obj\Debug\JingLi_ICA2.exe
+C:\Users\Jessie\Documents\GitHub\CMPE1700\JingLi_ICA2\JingLi_ICA2\obj\Debug\JingLi_ICA2.pdb
